@@ -1,9 +1,9 @@
-# tailwind-demo
+## tailwind-demo
 
 # Responsive Design
-- Large
+Large
 <img src="images/srnsht-lg.png" alt="large image">
-- Medium 
+Medium 
 <img src="images/srnsht-md.png" alt="medium image">
-- Small
+Small
 <img src="images/srnsht-sm.png" alt="small image">
