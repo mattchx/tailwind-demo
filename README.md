@@ -1,6 +1,6 @@
 # tailwind-demo
 
-## Responsive Design
+# Responsive Design
 # Large
 <img src="images/srnsht-lg.png" alt="large image">
 # Medium 
